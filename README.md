@@ -1,2 +1,3 @@
 # Speak-To-Me-Academy
-Priviate Speak Tutoring website built with a custom WordPress theme
+
+Public Speaking Tutoring website built with a custom WordPress theme.  This is still a work in progress and undates will be uploaded frequently.
